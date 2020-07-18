@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on modular, robust software for retail-oriented credit
+- 🔭 I’m currently working on credit scoring, data enrichment and productionizing ML models
 - 🌱 I’m currently learning Functional Programming, Python, ML Deployment
 - 📫 How to reach me: pedrocolrj@gmail.com
 - 😄 Pronouns: He/Him
