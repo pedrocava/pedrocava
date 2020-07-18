@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on credit scoring, data enrichment and productionizing ML models
+- 🔭 Economist by training, Data Scientist by trade. A bit of a math and political science dilletante. Overall a giant nerd. Currently working on credit scoring, data enrichment and productionizing ML models in a Rio de Janeiro-based scaled-up.
 - 🌱 I’m currently learning Functional Programming, Python, ML Deployment
-- 📫 How to reach me: pedrocolrj@gmail.com
+- 📫 How to reach me: pedrocolrj@gmail.com, [@PedrooCava](twitter.com/PedrooCava)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Amateur musician
