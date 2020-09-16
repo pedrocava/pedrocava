@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pedro Cavalcante</h1>
 <h3 align="center">Economist, Data Scientist, R developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocava" alt="pedrocava" /> </p>
