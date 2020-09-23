@@ -14,7 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocava&show_icons=true" alt="pedrocava" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocava&hide=javascript,html,jupyter%20notebook,tex)
 
 <p align="center">
 <a href="https://twitter.com/pedroocava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedroocava" height="30" width="30" /></a>
