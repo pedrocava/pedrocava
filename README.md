@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Julia**
 
-- 📝 I regulary write articles on [azul.netlify.app](azul.netlify.app)
+- 📝 I regulary write articles on [azul.netlify.app](http://https://azul.netlify.app)
 
 - 📫 How to reach me **pedrocolrj@gmail.com**
 
