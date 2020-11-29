@@ -17,5 +17,5 @@
 
 <p align="center">
 <a href="https://twitter.com/pedroocava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedroocava" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/571485" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="571485" height="30" width="30" /></a>
+<a href=https://stackoverflow.com/users/8278018/pedro-cavalcante?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="571485" height="30" width="30" /></a>
 </p>
