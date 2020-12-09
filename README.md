@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocava" alt="pedrocava" /> </p>
 
-- 🔭 I’m currently working as a Data Scientist at a rapidly scaling, Rio de Janeiro based fintech
+- 🔭 Data Scientist & Engineer at [UmHelp](https://www.umhelp.com/)
 
 - 🌱 I’m currently learning **Julia**
 
