@@ -4,7 +4,7 @@
 
 - 🔭 Data Scientist & Engineer at [UmHelp](https://www.umhelp.com/)
 
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **Elixir**
 
 - 📝 I regulary write articles on [azul.netlify.app](http://https://azul.netlify.app)
 
