@@ -4,7 +4,7 @@
 
 - 🔭 Data Scientist & Engineer at [UmHelp](https://www.umhelp.com/)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir** and **Apache Kafka**
 
 - 📝 I regulary write articles on [azul.netlify.app](https://azul.netlify.app)
 
