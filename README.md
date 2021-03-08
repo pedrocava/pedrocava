@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocava" alt="pedrocava" /> </p>
 
-- 🔭 Data Scientist & Engineer at [UmHelp](https://www.umhelp.com/)
+- 🔭 Data Scientist & Engineer at [Comadre](https://www.bancodasdiaristas.com/)
 
 - 🌱 I’m currently learning **Elixir** and **Apache Kafka**
 
