@@ -10,7 +10,8 @@
 # BSc. in Economics, R developer
 
 - Rio de Janeiro, Brazil
-- 2yrs experience as Data Scientist in fintech. Now working as a fullstack Data Scientist at [@Comadre-tech](https://github.com/comadre-tech)
+- 2yrs experience as Data Scientist in fintech, now working as a fullstack Data Scientist at [@Comadre-tech](https://github.com/comadre-tech)
+- Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Currently learning Elixir, going down the functional programming rabbithole
 - Maintaining @basedosdados [R client](https://github.com/basedosdados/mais)
 - Interested in math, philosophy of mind, causal inference, evolutionary biology, psychiatry and contemporary history 
