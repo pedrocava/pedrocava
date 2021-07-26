@@ -14,7 +14,7 @@
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Currently learning Elixir, going down the functional programming rabbithole
 - Maintaining @basedosdados [R client](https://github.com/basedosdados/mais)
-- Interested in math, philosophy of mind, causal inference, psychiatry
+- Interested in math, philosophy of mind, causal inference, politics
 
 <table>
   <tr>
