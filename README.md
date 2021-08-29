@@ -2,7 +2,7 @@
   <a href="https://twitter.com/pedroocava">
     <img src="https://img.shields.io/badge/Twitter-@pedroocava-1DA1F2" alt="my Twitter" />
   </a>
-  <a href="https://github.com/Tsugami">
+  <a href="https://github.com/pedroocava">
     <img src="https://komarev.com/ghpvc/?username=pedrocava&color=24292e&style=flat&label=Profile+Views" alt="Gitub Views Profile Count" />
   </a>
 </div>
