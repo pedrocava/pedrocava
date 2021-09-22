@@ -7,13 +7,14 @@
   </a>
 </div>
 
-# BSc. in Economics, R developer
+# BSc. in Economics, Public Goods Supplier
 
 - Rio de Janeiro, Brazil
-- 2yrs experience as Data Scientist in fintech, now working as a fullstack Data Scientist (Data Engineer?) at [@Comadre-tech](https://github.com/comadre-tech)
+- Fullstack Data Scientist (Data Engineer?) at [@Comadre-tech](https://github.com/comadre-tech)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
+- Doing Product Instrumentation, ETL, Observability and data tooling
 - Currently learning Elixir, going down the functional programming rabbithole
-- Maintaining @basedosdados [R client](https://github.com/basedosdados/mais)
+- Maintainer of @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math, philosophy of mind, causal inference, politics
 
 <table>
