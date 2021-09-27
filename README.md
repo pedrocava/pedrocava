@@ -7,12 +7,11 @@
   </a>
 </div>
 
-# BSc. in Economics, Public Goods Supplier
-
 - Rio de Janeiro, Brazil
-- Fullstack Data Scientist (Data Engineer?) at [@Comadre-tech](https://github.com/comadre-tech)
+- BSc. in Economics gone rogue
+- Data Engineer at [@Comadre-tech](https://github.com/comadre-tech)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
-- Doing Product Instrumentation, ETL, Observability and data tooling
+- Solving problems in Product Instrumentation, ETL, Observability and Tooling
 - Currently learning Elixir, going down the functional programming rabbithole
 - Maintainer of @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math, philosophy of mind, causal inference, politics
