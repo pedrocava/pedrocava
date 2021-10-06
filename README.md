@@ -9,7 +9,7 @@
 
 - Rio de Janeiro, Brazil
 - BSc. in Economics gone rogue
-- Data Engineer at [@conta-split](https://github.com/conta-split)
+- Lead Data Engineer at [@conta-split](https://github.com/conta-split)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Solving problems in Product Instrumentation, ETL, Observability and Tooling
 - Currently learning Elixir, going down the functional programming rabbithole
