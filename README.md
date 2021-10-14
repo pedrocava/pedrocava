@@ -11,7 +11,7 @@
 - BSc. in Economics gone rogue
 - Lead Data Engineer at [@conta-split](https://github.com/conta-split)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
-- Solving problems in Product Instrumentation, ETL, Observability and Tooling
+- Solving problems in Product Instrumentation, ETL
 - Currently learning Elixir, going down the functional programming rabbithole
 - Maintainer of @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math, philosophy of mind, causal inference, politics
