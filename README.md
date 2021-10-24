@@ -13,7 +13,7 @@
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Solving problems in Product Instrumentation, ETL
 - Currently learning Elixir, going down the functional programming rabbithole
-- Maintainer of @basedosdados's [R client](https://github.com/basedosdados/mais)
+- Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math, philosophy of mind, causal inference, politics
 
 <table>
