@@ -9,7 +9,7 @@
 
 - Rio de Janeiro, Brazil
 - BSc. in Economics gone rogue
-- Head of Data at [@appcumbuca](https://github.com/appcumbuca)
+- Head of Data [@appcumbuca](https://github.com/appcumbuca)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Solving problems in Product Instrumentation, ETL
 - Currently learning Elixir, going down the functional programming rabbithole
