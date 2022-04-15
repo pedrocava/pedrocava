@@ -26,3 +26,5 @@
     </td>
   </tr>
 </table>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&cover_image=true&theme=novatorem&bar_color=3e613d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&redirect=true)
