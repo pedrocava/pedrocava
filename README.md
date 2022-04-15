@@ -26,3 +26,5 @@
     </td>
   </tr>
 </table>
+
+[<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="What I'm listening" width="350" />](https://open.spotify.com/user/12176333473)
