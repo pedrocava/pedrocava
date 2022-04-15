@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=pedrocava&color=24292e&style=flat&label=Profile+Views" alt="Gitub Views Profile Count" />
   </a>
 </div>
+
 # Hello there
 
 - Rio de Janeiro, Brazil
@@ -29,5 +30,6 @@
 </table>
 
 # What I'm listening right now
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&cover_image=true&theme=novatorem&bar_color=3e613d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&redirect=true)
