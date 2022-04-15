@@ -27,4 +27,4 @@
   </tr>
 </table>
 
-[<img src="https://novatorem-mauve-sigma.vercel.app/api/spotify" alt="What I'm listening" width="350" />](https://open.spotify.com/user/12176333473)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&cover_image=true&theme=novatorem&bar_color=3e613d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12176333473&redirect=true)
