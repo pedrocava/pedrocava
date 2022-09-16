@@ -16,7 +16,7 @@
 - Building metrics, product instrumentation, ETL
 - Currently learning Elixir, going down the functional programming rabbithole
 - Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
-- Interested in math, philosophy of mind, music theory, politics
+- Interested in math, philosophy of mind, music theory, politics, chess
 
 <table>
   <tr>
