@@ -14,9 +14,8 @@
 - Head of Data [@appcumbuca](https://github.com/appcumbuca)
 - Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Building metrics, product instrumentation, ETL
-- Currently learning Elixir, going down the functional programming rabbithole
 - Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
-- Interested in math, philosophy of mind, music (theory), politics, chess
+- Interested in math/ functional programming, philosophy of mind, music (theory), politics, chess
 
 <table>
   <tr>
