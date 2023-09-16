@@ -12,7 +12,7 @@
 - Rio de Janeiro, Brazil
 - BSc. in Economics gone rogue
 - Head of Data [@appcumbuca](https://github.com/appcumbuca)
-- Working with Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
+- Working with dbt, Python, R, [Serverless Framework](https://www.serverless.com/), AWS, Linux, PostgreSQL
 - Building metrics, product instrumentation, ETL
 - Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math/ functional programming, philosophy of mind, music (theory), politics, chess
