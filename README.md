@@ -8,8 +8,6 @@
 
 - Rio de Janeiro, Brazil
 - BSc. in Economics gone rogue
-- Data & AI Engineer @ QEDCode
-- Previously Head of Data [@appcumbuca](https://github.com/appcumbuca)
 - Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math/ functional programming, philosophy of mind, music (theory), politics, chess
 
