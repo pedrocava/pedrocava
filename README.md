@@ -6,7 +6,7 @@
 
 # Hello there
 
-- Lead Engineer @nias-ai
+- Lead Engineer [@nias-ai](https://github.com/nias-ai)
 - Rio de Janeiro, Brazil
 - BSc. in Economics gone rogue
 - Maintaining @basedosdados's [R client](https://github.com/basedosdados/mais)
