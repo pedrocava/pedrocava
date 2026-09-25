@@ -7,13 +7,6 @@
 # Hello there
 
 - BSc. in Economics gone rogue
+- Data & AI Engineer @ [Tail](usetail.co)
 - I Maintain @basedosdados's [R client](https://github.com/basedosdados/mais)
 - Interested in math/ functional programming, philosophy of mind, music (theory), politics, chess
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocava&hide=html,stata,tex,jupyter%20notebook&layout=compact&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
